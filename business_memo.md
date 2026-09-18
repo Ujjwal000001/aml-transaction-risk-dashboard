@@ -1,13 +1,10 @@
 # AML Transaction Risk Analysis
 ## Executive Findings & Compliance Recommendations
 
-**Prepared by:** Anukrati Rajawat, Business Analyst  
-**Institution:** University of North Carolina Wilmington (UNCW)  
-**Program:** MS Business Analytics, 2026  
-**Date:** June 2026  
+**Prepared by:** Ujjwal Singh 
 **Dataset:** PaySim Synthetic Mobile Money Transactions  
 **Scope:** 6,362,620 transactions across 743 hours (31 days of monitoring)  
-**Tools Used:** Python (Pandas, Matplotlib) · SQL (Window Functions, CTEs) · Power BI (DAX, KPI Dashboards)  
+**Tools Used:** Python (Pandas, Matplotlib) · SQL (Window Functions) · Power BI (DAX, KPI Dashboards)  
 
 ---
 
