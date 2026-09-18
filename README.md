@@ -120,13 +120,6 @@ aml-transaction-risk-dashboard/
 ```
  
 ---
-
- 
-## Resume Bullet
- 
-> Developed an end-to-end AML Transaction Risk Intelligence platform processing 6.36M records using Python and SQL; discovered a 99.8% legacy detection gap exposing $11.98B in unflagged fraud. Engineered a 3-tier risk-scoring matrix using advanced SQL (CTEs, Window Functions), and deployed an interactive Power BI compliance dashboard to optimize transaction monitoring workflows.
- 
----
  
 ## Dataset Credit
  
