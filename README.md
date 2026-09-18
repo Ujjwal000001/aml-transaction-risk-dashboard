@@ -93,12 +93,6 @@ To replace the ineffective legacy binary flagging logic, a multi-variable scorin
  
 ---
  
-## Dashboard Preview
- 
-https://github.com/AnukratiR/aml-transaction-risk-dashboard/blob/main/dashboard_screenshot.png
- 
----
- 
 ## Top Analytics Drivers (Feature Framework)
  
 1. Transaction Type Concentration (TRANSFER / CASH_OUT)
